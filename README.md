@@ -1,1 +1,1 @@
-# cykl-ycia-i-narzedzia-Devops
+# cykl-życia-i-narzedzia-Devops
